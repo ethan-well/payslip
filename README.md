@@ -1,3 +1,3 @@
 # Problem: Employee monthly payslip
-### run it 
-ruby run.rb employee_details.text
+### run it to generate the payslip
+ruby generate_payslip.rb employee_details.text
